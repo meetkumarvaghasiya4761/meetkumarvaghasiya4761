@@ -3,25 +3,19 @@
 ###
 
 <div align="center">
-  <img height="250" src="ChatGPT Image Aug 8, 2025, 03_55_32 PM.png"  />
+  <img height="250" src="chatgpt.png" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/karankumar-hirapara-25b5b0239/" target="_blank">
+  <a href="linkedin.com/in/meetkumar-vaghasiya-a390b8241/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@KaranHirapara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
+  
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Karan5201.Karan5201&"  />
-</div>
 
 ###
 
